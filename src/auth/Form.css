@@ -1,0 +1,13 @@
+.Form {
+  height: calc(100vh - 40px);
+  display: flex;
+  align-items: center;
+  background-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0.484),
+      rgba(0, 0, 0, 0.477)
+    ),
+    url(../images/loginbanner.jpg);
+  background-position: center;
+  background-size: cover;
+}

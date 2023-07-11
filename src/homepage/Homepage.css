@@ -1,0 +1,13 @@
+.Homepage {
+  height: calc(100vh - 40px);
+  display: flex;
+  align-items: center;
+  background-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0.625),
+      rgba(0, 0, 0, 0.625)
+    ),
+    url(../images/jobly-banner.jpg);
+  background-position: center;
+  background-size: cover;
+}
